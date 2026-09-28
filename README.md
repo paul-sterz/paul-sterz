@@ -1,8 +1,6 @@
 # Hi, I'm Paul 👋
 
-I'm a **Mathematics B.Sc. student at TU Darmstadt** with a strong interest in **applied mathematics, algorithms, computational geometry, computer graphics, and robotics**.
-
-I enjoy working on problems where mathematical ideas meet practical computation — from designing algorithms and optimization methods to implementing and evaluating them in simulation.
+I'm a **Mathematics M.Sc. student at TU Darmstadt** with a strong interest in **applied mathematics, algorithms, computational geometry, computer graphics, and robotics**.
 
 ---
 
@@ -27,7 +25,7 @@ Research on guaranteed multi-robot search and clearance in complex environments.
 
 **Seminar Project · TU Darmstadt**
 
-Computational investigation of approximating non-constructible numbers using compass-with-memory and straightedge constructions.
+Computational investigation of approximating non-constructible numbers using compass and straightedge constructions.
 
 * Computational geometry
 * Search algorithms
@@ -36,27 +34,6 @@ Computational investigation of approximating non-constructible numbers using com
 * Parallel computation
 
 → **[View repository](https://github.com/paul-sterz)**
-
----
-
-## 🧩 Interests
-
-**Mathematics**
-
-* Applied Mathematics
-* Numerical Mathematics
-* Optimization
-* Probability
-* Algorithms
-
-**Computational Fields**
-
-* Computational Geometry
-* Computer Graphics
-* Geometry Processing
-* Computer Vision
-* Robotics
-* Simulation
 
 ---
 
@@ -69,15 +46,6 @@ Computational investigation of approximating non-constructible numbers using com
 **Tools**
 
 `Git` · `LaTeX` · `Linux`
-
----
-
-## 🎓 Education
-
-**Technische Universität Darmstadt**
-B.Sc. Mathematics
-
-Currently focusing on **Geometry & Approximation** and **Numerical Mathematics**.
 
 ---
 
