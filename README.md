@@ -29,6 +29,7 @@ Computational investigation of approximating non-constructible numbers using com
 
 * Computational geometry
 * Search algorithms
+* AI-assisted search and candidate prioritization
 * Symmetry reduction
 * Numerical approximation
 * Parallel computation
