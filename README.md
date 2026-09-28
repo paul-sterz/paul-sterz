@@ -14,7 +14,7 @@ Research on guaranteed multi-robot search and clearance in complex environments.
 
 * Graph-based search and exploration
 * Probabilistic spatial priors
-* Spanning tree generation and optimization
+* Machine Scheduling
 * Evolutionary algorithms
 * Multi-robot coordination
 * 3D environments and raycasting
