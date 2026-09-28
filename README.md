@@ -19,7 +19,7 @@ Research on guaranteed multi-robot search and clearance in complex environments.
 * Multi-robot coordination
 * 3D environments and raycasting
 
-→ **[View repository](https://github.com/paul-sterz)**
+→ **[View repository](https://github.com/paul-sterz/Multi-Robot-Clearance)**
 
 ### 📐 Geometric Approximation with Compass & Straightedge
 
