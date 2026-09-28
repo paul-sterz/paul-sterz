@@ -54,4 +54,5 @@ Computational investigation of approximating non-constructible numbers using com
 Feel free to explore my repositories or get in touch.
 
 **LinkedIn:** [linkedin.com/in/paul-sterz](https://www.linkedin.com/in/paul-sterz-803720325/)
+<br>
 **Email:** [psterz04@gmail.com](mailto:psterz04@gmail.com)
