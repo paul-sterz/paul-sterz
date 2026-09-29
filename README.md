@@ -42,7 +42,7 @@ Computational investigation of approximating non-constructible numbers using com
 
 **Programming**
 
-`Python` · `MATLAB` · `Java` · `C++`
+`Python` · `MATLAB` · `Java` · `SQL` · `C++`
 
 **Tools**
 
