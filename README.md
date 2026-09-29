@@ -34,7 +34,7 @@ Computational investigation of approximating non-constructible numbers using com
 * Numerical approximation
 * Parallel computation
 
-→ **[View repository](https://github.com/paul-sterz/Approximations-with-Straightedge-and-Compass-)**
+→ **[View repository](https://github.com/paul-sterz/Approximations-with-Straightedge-and-Compass)**
 
 ---
 
